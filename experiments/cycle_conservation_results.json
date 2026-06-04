@@ -1,0 +1,140 @@
+{
+  "repo_metrics": {
+    "lever-runner": {
+      "n_functions": 101,
+      "total_edges": 686,
+      "self_calls": 3,
+      "mutual_pairs": 4,
+      "cycle_density": 0.010204081632651574,
+      "hub_count": 13,
+      "edge_density": 0.06792079207920725
+    },
+    "pincherOS": {
+      "n_functions": 403,
+      "total_edges": 2097,
+      "self_calls": 25,
+      "mutual_pairs": 34,
+      "cycle_density": 0.028135431568906622,
+      "hub_count": 11,
+      "edge_density": 0.012943965038331907
+    },
+    "open-minded": {
+      "n_functions": 281,
+      "total_edges": 1496,
+      "self_calls": 13,
+      "mutual_pairs": 15,
+      "cycle_density": 0.0187165775401057,
+      "hub_count": 18,
+      "edge_density": 0.01901372648703607
+    },
+    "zeroclaw-arena": {
+      "n_functions": 79,
+      "total_edges": 656,
+      "self_calls": 12,
+      "mutual_pairs": 13,
+      "cycle_density": 0.03810975609755517,
+      "hub_count": 10,
+      "edge_density": 0.10645894190197815
+    },
+    "fastloop-guard": {
+      "n_functions": 41,
+      "total_edges": 161,
+      "self_calls": 1,
+      "mutual_pairs": 1,
+      "cycle_density": 0.01242236024843949,
+      "hub_count": 4,
+      "edge_density": 0.09817073170731108
+    },
+    "metal-lathe": {
+      "n_functions": 20,
+      "total_edges": 187,
+      "self_calls": 2,
+      "mutual_pairs": 2,
+      "cycle_density": 0.021390374331539366,
+      "hub_count": 5,
+      "edge_density": 0.49210526315776526
+    }
+  },
+  "timeline": [
+    {
+      "commit": "HEAD",
+      "n_functions": 101,
+      "total_edges": 686,
+      "self_calls": 3,
+      "mutual_pairs": 4,
+      "cycle_density": 0.010204081632651574,
+      "hub_count": 13,
+      "edge_density": 0.06792079207920725
+    },
+    {
+      "commit": "cec100a",
+      "n_functions": 172,
+      "total_edges": 901,
+      "self_calls": 4,
+      "mutual_pairs": 4,
+      "cycle_density": 0.008879023307435197,
+      "hub_count": 16,
+      "edge_density": 0.03063375492996046
+    },
+    {
+      "commit": "151803e",
+      "n_functions": 111,
+      "total_edges": 776,
+      "self_calls": 4,
+      "mutual_pairs": 4,
+      "cycle_density": 0.010309278350514135,
+      "hub_count": 16,
+      "edge_density": 0.06355446355446304
+    },
+    {
+      "commit": "c666abb",
+      "n_functions": 104,
+      "total_edges": 747,
+      "self_calls": 4,
+      "mutual_pairs": 4,
+      "cycle_density": 0.010709504685406865,
+      "hub_count": 16,
+      "edge_density": 0.06973487677371107
+    },
+    {
+      "commit": "HEAD",
+      "n_functions": 79,
+      "total_edges": 656,
+      "self_calls": 12,
+      "mutual_pairs": 13,
+      "cycle_density": 0.03810975609755517,
+      "hub_count": 10,
+      "edge_density": 0.10645894190197815
+    },
+    {
+      "commit": "f3d5293",
+      "n_functions": 57,
+      "total_edges": 416,
+      "self_calls": 9,
+      "mutual_pairs": 9,
+      "cycle_density": 0.04326923076922037,
+      "hub_count": 10,
+      "edge_density": 0.13032581453633676
+    },
+    {
+      "commit": "5ba0736",
+      "n_functions": 40,
+      "total_edges": 265,
+      "self_calls": 4,
+      "mutual_pairs": 4,
+      "cycle_density": 0.03018867924527163,
+      "hub_count": 5,
+      "edge_density": 0.16987179487178397
+    },
+    {
+      "commit": "482df51",
+      "n_functions": 36,
+      "total_edges": 211,
+      "self_calls": 3,
+      "mutual_pairs": 3,
+      "cycle_density": 0.028436018957332495,
+      "hub_count": 4,
+      "edge_density": 0.16746031746030415
+    }
+  ]
+}
