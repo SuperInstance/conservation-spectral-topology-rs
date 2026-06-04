@@ -1,0 +1,9 @@
+{
+  "baseline": {
+    "lever-runner-zeroclaw-arena": 0.9997690104593385,
+    "lever-runner-metal-lathe": 0.9963628983574251,
+    "zeroclaw-arena-metal-lathe": 0.9979635078246162
+  },
+  "name_perturbation_avg_change": 0.0010786983093280893,
+  "verdict": "genuine"
+}
