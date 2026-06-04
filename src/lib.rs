@@ -4,8 +4,11 @@
 
 use nalgebra::{DMatrix, DVector, SymmetricEigen};
 
+pub mod compiler;
+pub mod conservation;
 pub mod cycles;
 pub mod ecosystem;
+pub mod holographic;
 
 /// Holds the eigenvalues of a graph Laplacian, sorted ascending.
 #[derive(Debug, Clone)]
