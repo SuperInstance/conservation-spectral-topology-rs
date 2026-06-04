@@ -4,6 +4,7 @@
 
 use nalgebra::{DMatrix, DVector, SymmetricEigen};
 
+pub mod cycles;
 pub mod ecosystem;
 
 /// Holds the eigenvalues of a graph Laplacian, sorted ascending.
