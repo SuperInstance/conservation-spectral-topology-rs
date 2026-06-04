@@ -1,0 +1,80 @@
+{
+  "repos": {
+    "lever-runner": {
+      "functions": 220,
+      "edges": 1177
+    },
+    "pincherOS": {
+      "functions": 680,
+      "edges": 2225
+    },
+    "open-minded": {
+      "functions": 281,
+      "edges": 1434
+    },
+    "zeroclaw-arena": {
+      "functions": 69,
+      "edges": 515
+    },
+    "fastloop-guard": {
+      "functions": 41,
+      "edges": 128
+    },
+    "metal-lathe": {
+      "functions": 20,
+      "edges": 179
+    },
+    "conservation-spectral-topology-rs": {
+      "functions": 83,
+      "edges": 356
+    },
+    "agent-template": {
+      "functions": 2,
+      "edges": 5
+    },
+    "intelligent-terminal": {
+      "functions": 2172,
+      "edges": 8233
+    }
+  },
+  "similarity_matrix": {
+    "lever-runner-open-minded": 0.9991886046429359,
+    "lever-runner-pincherOS": 0.9970338849346426,
+    "zeroclaw-arena-intelligent-terminal": 0.9967219599471535,
+    "pincherOS-open-minded": 0.9964988459168824,
+    "lever-runner-intelligent-terminal": 0.9962357690169357,
+    "pincherOS-intelligent-terminal": 0.9960627486430589,
+    "open-minded-intelligent-terminal": 0.9947211647984029,
+    "lever-runner-zeroclaw-arena": 0.9937902766047463,
+    "open-minded-zeroclaw-arena": 0.9915816600624489,
+    "pincherOS-zeroclaw-arena": 0.9896680753206575,
+    "fastloop-guard-metal-lathe": 0.9827047878162665,
+    "zeroclaw-arena-conservation-spectral-topology-rs": 0.9693263392384326,
+    "lever-runner-conservation-spectral-topology-rs": 0.953179659179354,
+    "open-minded-conservation-spectral-topology-rs": 0.9494171252475212,
+    "conservation-spectral-topology-rs-intelligent-terminal": 0.9490968504139806,
+    "fastloop-guard-conservation-spectral-topology-rs": 0.9459388464778922,
+    "pincherOS-conservation-spectral-topology-rs": 0.9338298462242064,
+    "metal-lathe-conservation-spectral-topology-rs": 0.9242392385973986,
+    "zeroclaw-arena-fastloop-guard": 0.905370246168005,
+    "zeroclaw-arena-metal-lathe": 0.884767099436329,
+    "fastloop-guard-intelligent-terminal": 0.8796805583562488,
+    "lever-runner-fastloop-guard": 0.8684033651202152,
+    "open-minded-fastloop-guard": 0.8628542060278708,
+    "metal-lathe-intelligent-terminal": 0.8594138217806677,
+    "lever-runner-metal-lathe": 0.8438536356701739,
+    "pincherOS-fastloop-guard": 0.8432353798363179,
+    "open-minded-metal-lathe": 0.8388292689868599,
+    "pincherOS-metal-lathe": 0.8204801233262706,
+    "conservation-spectral-topology-rs-agent-template": 0.25403687770089295,
+    "fastloop-guard-agent-template": 0.19104254617295408,
+    "open-minded-agent-template": 0.1604031038852692,
+    "lever-runner-agent-template": 0.1513624031606708,
+    "zeroclaw-arena-agent-template": 0.13489154460537506,
+    "metal-lathe-agent-template": 0.13482328848056016,
+    "agent-template-intelligent-terminal": 0.10438438784904688,
+    "pincherOS-agent-template": 0.1011823330974402
+  },
+  "extraction_time_s": 0.1194112259981921,
+  "cores_used": 24
+}
