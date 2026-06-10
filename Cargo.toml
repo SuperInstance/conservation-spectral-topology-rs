@@ -1,4 +1,6 @@
 [package]
+description = "conservation-spectral-topology-rs - SuperInstance ecosystem crate"
+repository = "https://github.com/SuperInstance/conservation-spectral-topology-rs"
 name = "conservation-spectral-topology"
 version = "0.1.0"
 edition = "2021"
